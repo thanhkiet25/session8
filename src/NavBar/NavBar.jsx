@@ -3,7 +3,7 @@ import {  NavLink } from "react-router-dom";
 export default function NavBar() {
   return (
     <div>
-      <ul className="list-none flex gap-20 justify-center">
+      <ul className="list-none flex  gap-20 justify-center">
         <li>
           <NavLink to="/" end>Home</NavLink>
         </li>
